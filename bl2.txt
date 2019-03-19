@@ -1,0 +1,5 @@
+﻿Arnold,Schwartzeneger
+Sylvester,Stallone
+Bruce,Willis
+Geena,Davis
+Jamie-Lee,Curtis
